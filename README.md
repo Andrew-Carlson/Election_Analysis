@@ -15,15 +15,18 @@ The purpose of this project is to obtain the following information from a csv fi
 ## Summary
 The  results of the analysis are as follows:
 
--The candidates were:<br/>
-  -Charles Casper Stockham<br/>
-  -Diana DeGette<br/>
-  -Raymon Anthony Doane<br/>
+Candidates:<br/>
+
+-Charles Casper Stockham<br/>
+-Diana DeGette<br/>
+-Raymon Anthony Doane<br/>
   
--Results for candidates:<br/>
-  -Charles Casper Stockham received 23.0% of the total votes with 85,213 votes<br/>
-  -Diana DeGette received 73.8% of the total votes with 272,892 votes<br/>
-  -Raymon Anthony Doane received 3.1% of the total votes with 11,606 votes<br/>
+Results for candidates:<br/>
+
+-Charles Casper Stockham received 23.0% of the total votes with 85,213 votes<br/>
+-Diana DeGette received 73.8% of the total votes with 272,892 votes<br/>
+-Raymon Anthony Doane received 3.1% of the total votes with 11,606 votes<br/>
   
--Winning candidate:<br/>
-  -Candidate Diana DeGette was the winning candidate with 73.8% of the total votes with 85,213 votes. 
+Winning candidate:<br/>
+
+-Candidate Diana DeGette was the winning candidate with 73.8% of the total votes with 85,213 votes. 
